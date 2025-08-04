@@ -6,7 +6,9 @@ Bu repo [**Patika.dev**](https://patika.dev) Front-End Eğitiminde oluşturduğu
 
 Öncelikle projeyi clonelayın. (https://github.com/tarkanovic/patikadevilkrepo.git)
 
-'git clone https://github.com/tarkanovic/patikadevilkrepo.git'
+`
+    git clone https://github.com/tarkanovic/patikadevilkrepo.git
+`
 
 
 ## Usage
