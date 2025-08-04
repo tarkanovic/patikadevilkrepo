@@ -2,7 +2,7 @@
 
 Bu repo [**Patika.dev**](https://patika.dev) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-
+<img src="./images/github.png">
 
 
 ## Installation
