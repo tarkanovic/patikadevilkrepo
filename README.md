@@ -7,7 +7,7 @@ Bu repo [**Patika.dev**](https://patika.dev) Front-End Eğitiminde oluşturduğu
 Öncelikle projeyi clonelayın. (https://github.com/tarkanovic/patikadevilkrepo.git)
 
 `
-    git clone https://github.com/tarkanovic/patikadevilkrepo.git
+     git clone https://github.com/tarkanovic/patikadevilkrepo.git
 `
 
 
@@ -17,3 +17,17 @@ Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
 
 Linux için;
 
+```
+    cd patikadevilkrepo
+    code .
+```
+
+
+## Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için, önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+
+## License
+
+[MIT](https://choosealicense.com/)
